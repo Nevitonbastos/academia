@@ -1,0 +1,285 @@
+
+
+@import url('https://fonts.googleapis.com/css2? family= Righteous & display=swap'); 
+
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300 & display=swap');
+
+
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+    height: 100vh;
+    color: black;
+    font-family: 'Righteous', sans-serif ;
+}   
+
+:root {
+    --cor1 : #2E3192;
+    --cor2 : #ECB719;
+}
+
+body{
+    background: linear-gradient(rgba(22, 19, 41, 0.8),rgb(37, 37, 37)),url("imagens/Aline\ Santos-25.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+footer{
+    background-color: black;
+    height: 400px;
+}
+
+header{
+    width: 100%;
+    height: 130px;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container img{
+    width: 130px;
+}
+
+
+
+nav{
+    width: 100%;
+    
+
+}
+.nav-itens{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px 0;
+    gap: 30px;
+    text-transform: uppercase;
+}
+ 
+.nav-itens li {
+    list-style: none;
+}
+
+.nav-itens a{
+    text-decoration: none;
+    font-size: 13px;
+    color: white;
+    padding: 20px;
+    transition: 0.3s ease-in;
+    font-weight: bold;
+}
+
+.nav-itens a:hover{
+    border-bottom: 1px solid;
+    color: var(--cor2);
+}
+
+
+
+.main-content{
+    margin-top: 100px;
+}
+
+.main-content h1 {
+    text-align: center;
+    color: white;
+}
+
+.main-content p {
+    font-size: 17pt;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+
+.content{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
+}
+.card img:hover{
+    transform: scale(1.07);
+}
+
+.card {
+    margin: 40px;
+    max-width: 300px;
+    height: 480px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-radius: 15px;
+    transition: transform 200ms ease-in-out;
+    cursor: pointer;
+}
+
+.card h2{
+    margin: 10px;
+    border-bottom: solid 1px gold;
+    font-size: 25px;
+}
+
+.card p{
+    font-size: 18px;
+    text-align: justify;
+    padding: 15px;
+}
+
+
+.text p {
+    margin: auto;
+    font-size: 1.5rem;
+    gap: 10px;  
+}
+
+
+.conteudo {
+    margin-top: 150px;
+ }
+
+ .principal {
+    margin: auto;
+    padding: 10px;
+    border: 1px solid transparent; 
+    max-width: 1000px;
+
+ }
+
+ .principal img{
+    width: 100%;
+ }
+
+
+
+.btn{
+    text-align: center;
+    margin: 30px;
+}
+.btn button{
+    margin: auto;
+    margin-bottom: 10px;
+    min-width: 150px;
+    max-width: 650px;
+    height: 50px;
+    cursor: pointer;
+    border: solid 2px var(--cor1);
+    background-color: var(--cor1);
+    text-transform: uppercase;
+    border-radius: 5px;
+    transition: transform 200ms ease-in-out;
+}
+
+.btn button:hover{
+    transform: scale(1.07);
+}
+
+.btn a {
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-family: ;
+}
+
+
+
+.painel-fotos{
+    column-count: 3;
+    column-gap: 10px;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.painel-fotos img{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow:  0 0 8px 1px var(--cor1), 4px 4px 8px 1px var(--cor2);
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ table{
+    width: 70%;
+    margin-top: 30px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+caption{
+    color: white;
+    margin-bottom: 30px;
+    font-size: 1.4em;
+    font-weight: bolder;
+    padding: 5px;
+}
+th,td{
+    font-weight: bolder;
+    border: 1px solid rgb(221, 219, 219);
+    text-align: center;
+    padding: 10px;
+    width: 150px; 
+    background-color: rgba(193, 227, 238, 0.582);
+    cursor: pointer;
+}  
+
+th{
+    background-color: #121212;
+    color: white;
+}
+
+td.cor1{
+    background-color: green;
+   color: black;
+}
+td.cor2{
+    background-color: rgb(33, 171, 218);
+    ccolor: black;
+}
+td.cor3{
+    background-color: rgb(209, 209, 39);
+    color: black;
+}
+td.cor4{
+    background-color: rgb(94, 12, 172);
+    color: black;
+}
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+

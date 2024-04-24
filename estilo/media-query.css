@@ -1,0 +1,18 @@
+@charset "UTF-8";
+ 
+@media screen and (min-width: 768px){
+    .nav-itens a {
+        font-size: 1em;
+    }
+
+    .painel-fotos {
+        width: 85vw;
+    }
+}
+
+
+/* estilo da pagina 2 ( aula.html) */
+
+@media screen and {
+    
+}
