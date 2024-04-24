@@ -23,7 +23,7 @@ html,body{
 }
 
 body{
-    background: linear-gradient(rgba(22, 19, 41, 0.8),rgb(37, 37, 37)),url("imagens/Aline\ Santos-25.jpg") no-repeat center;
+    background: linear-gradient(rgba(22, 19, 41, 0.8),rgb(37, 37, 37)),url("../imagens/Aline\ Santos-25.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;

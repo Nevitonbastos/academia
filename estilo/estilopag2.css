@@ -8,7 +8,7 @@
 }
 
 body{
-    background: linear-gradient(rgba(114, 108, 108, 0.8),rgba(20,20,20,1)),url("imagens/Aline\ Santos-25.jpg") no-repeat center;
+    background: linear-gradient(rgba(114, 108, 108, 0.8),rgba(20,20,20,1)),url("../imagens/Aline\ Santos-25.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -103,7 +103,7 @@ h2{
     position: relative;
     display: flex;
     justify-content: flex-end;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("imagens/IMG_2050.jpg"),no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/IMG_2050.jpg"),no-repeat ;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
@@ -118,7 +118,7 @@ h2{
 .picture2{
     display: flex;
     justify-content: flex-start;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(40, 41, 1, 0.945)),url("imagens/Aline\ Santos-25.jpg") no-repeat center;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(40, 41, 1, 0.945)),url("../imagens/Aline\ Santos-25.jpg") no-repeat center;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
@@ -132,7 +132,7 @@ h2{
 .picture3{
     display: flex;
     justify-content: flex-start;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(40, 41, 1, 0.945)),url("imagens/Krav_Maga_autocontrol.jpg") no-repeat top right;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(40, 41, 1, 0.945)),url("../imagens/Krav_Maga_autocontrol.jpg") no-repeat top right;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
@@ -145,7 +145,7 @@ h2{
 .picture4{
     display: flex;
     justify-content: flex-start;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgb(40, 41, 1, 0.945)),url("imagens/pilates.png") no-repeat center;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgb(40, 41, 1, 0.945)),url("../imagens/pilates.png") no-repeat center;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
@@ -159,7 +159,7 @@ h2{
     position: relative;
     display: flex;
     justify-content: flex-end;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("imagens/karate.jpg"),no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/karate.jpg"),no-repeat ;
     background-size: cover;
     color: #fff;
     border: 1px solid; 
