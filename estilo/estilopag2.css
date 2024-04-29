@@ -97,17 +97,19 @@ h2{
 }
 
 
-
+main.principal img {
+    
+}
 
 .picture{
-    position: relative;
+   
     display: flex;
     justify-content: flex-end;
     background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/IMG_2050.jpg"),no-repeat ;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
-    width: 1100px;
+    width: 50vw;
     height:450px;
     border-radius:10px ;
     padding: 10px 10px 10px 10px;
@@ -122,7 +124,7 @@ h2{
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
-    width: 1100px;
+    width: 50vw;
     height: 450px;
     border-radius:10px;
     padding: 10px 10px 10px 10px;
@@ -136,7 +138,7 @@ h2{
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
-    width: 1100px;
+    width: 50vw;
     height: 450px;
     border-radius: 10px ;
     padding: 10px 10px 10px 10px;
@@ -149,21 +151,20 @@ h2{
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
-    width: 1100px;
+    width: 50vw;
     height: 450px;
     border-radius:10px ;
     padding: 10px 10px 10px 10px;
 }
 
 .picture1{
-    position: relative;
     display: flex;
     justify-content: flex-end;
     background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/karate.jpg"),no-repeat ;
     background-size: cover;
     color: #fff;
     border: 1px solid; 
-    width: 1100px;
+    width: 50vw;
     height:450px;
     border-radius:10px ;
     padding: 10px 10px 10px 10px;
