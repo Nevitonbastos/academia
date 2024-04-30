@@ -41,12 +41,12 @@ header{
     
 }
 
-.container{
+.logo{
     display: flex;
     justify-content: center;
 }
 
-.container img{
+.logo img{
     width: 130px;
 }
 
@@ -83,6 +83,7 @@ nav{
     border-bottom: 1px solid;
     color: var(--cor2);
 }
+
 
 
 
