@@ -97,10 +97,10 @@ h2{
 }
 
 
-.picture{
+.picture {
     display: flex;
     justify-content: flex-end;
-    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/IMG_2050.jpg"),no-repeat ;
+    background: linear-gradient(rgba(0, 0, 0, 0.678),rgba(6, 2, 27, 0.884)),url("../imagens/IMG_2050.jpg"), no-repeat ;
     background-size: cover;
     color: #fff;
     border: 1px solid ; 
