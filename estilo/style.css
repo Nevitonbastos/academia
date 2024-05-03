@@ -160,6 +160,11 @@ nav{
     
 }
 
+.icon{
+    background-color: white;
+    
+}
+
 .card img {
     width: 100%;
     border-radius: 20px;
