@@ -104,7 +104,7 @@ nav{
     background-position: center;
     background-size: cover;
     padding: 15rem 0;
-    margin: 10px;
+    margin: auto;
 }
 
 .chamada h1,
@@ -144,7 +144,7 @@ nav{
 .main-content{
     background-color: rgb(9, 9, 63);
     height: 90vh;
-    margin: 10px 10px ;
+    margin: 15px auto ;
     padding: 10px;
 }
 
