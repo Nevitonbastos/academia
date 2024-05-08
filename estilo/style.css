@@ -143,7 +143,6 @@ nav{
 
 .main-content{
     background-color: rgb(9, 9, 63);
-    height: 90vh;
     margin: 15px auto ;
     padding: 10px;
 }
@@ -162,7 +161,7 @@ nav{
 }
 
 .icon{
-    background-color: white;
+    
     
 }
 
