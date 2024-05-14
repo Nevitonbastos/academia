@@ -256,11 +256,16 @@ nav{
    color: rgb(12, 163, 12);
 }
 
+.pictures{
+    background-color: #1b1d57;
+    width: 100%;
+    
+}
 
 
 .painel-fotos{
     column-count: 3;
-    column-gap: 10px;
+    column-gap: 1;
     margin: auto;
     padding: 10px;
     
@@ -270,8 +275,8 @@ nav{
 .painel-fotos img{
     width: 100%;
     border-radius: 20px;
-    box-shadow:  0 0 8px 1px var(--cor1), 4px 4px 8px 1px var(--cor2);
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 
