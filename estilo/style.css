@@ -54,9 +54,9 @@ header{
 
 nav{
     width: 100%;
-    
 
 }
+
 .nav-itens{
     display: flex;
     justify-content: center;
@@ -68,7 +68,6 @@ nav{
  
 .nav-itens li {
     list-style: none;
-    
 }
 
 .nav-itens a{
@@ -239,57 +238,6 @@ nav{
 
 
 
-
-
-
-
-
-
- table{
-    width: 70%;
-    margin-top: 30px;
-    margin: auto;
-    border-collapse: collapse;
-}
-
-caption{
-    color: white;
-    margin-bottom: 30px;
-    font-size: 1.4em;
-    font-weight: bolder;
-    padding: 5px;
-}
-th,td{
-    font-weight: bolder;
-    border: 1px solid rgb(221, 219, 219);
-    text-align: center;
-    padding: 10px;
-    width: 150px; 
-    background-color: rgba(193, 227, 238, 0.582);
-    cursor: pointer;
-}  
-
-th{
-    background-color: #121212;
-    color: white;
-}
-
-td.cor1{
-    background-color: green;
-   color: black;
-}
-td.cor2{
-    background-color: rgb(33, 171, 218);
-    ccolor: black;
-}
-td.cor3{
-    background-color: rgb(209, 209, 39);
-    color: black;
-}
-td.cor4{
-    background-color: rgb(94, 12, 172);
-    color: black;
-}
  
 
 
