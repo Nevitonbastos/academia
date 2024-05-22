@@ -143,6 +143,8 @@ nav{
     font-size: 1.3rem;
 }
 
+/* conteudo */
+
 
 
 
@@ -198,38 +200,11 @@ nav{
     transform: scale(1.07);
 }
 
-/* conteudo */
-
 .text p {
-    text-align: center;
-    font-size: 1.5rem;
-    font-weight: bold;
-
+    margin: 20px;
 }
 
 
-.conteudo {
-    margin-top: 150px;
- }
-
- .principal {
-    margin: auto;
-    padding: 10px;
-    border: 1px solid transparent; 
-    max-width: 1000px;
-
- }
-
- .principal img{
-    width: 100%;
- }
-
-
-
-
-#icon{
-   color: rgb(12, 163, 12);
-}
 
 .pictures{
     background-color: #1b1d57;
@@ -244,15 +219,15 @@ nav{
     text-align: center;
     margin: auto;*/
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
     margin: auto;
-    gap: 5px;
+    gap: 7px;
     padding: 10px;
     
 }
 
 .painel-fotos img{
-    width: 70%;
+    width:100%;
     margin-top: 30px;
     margin-bottom: 30px;
     margin: auto;
