@@ -148,8 +148,8 @@ h1{
 }
 
 .card img {
-    width: 100%;
-    height: auto;
+    width: 450px;
+    height: 400px;
 }
  
 .card-content {
@@ -164,8 +164,12 @@ h1{
 
 .card-content p {
     text-align: justify;
+    padding: 7px;
 }
 
+.card-content p > b{
+    color:#1b1fa8;
+}
 
 
 
